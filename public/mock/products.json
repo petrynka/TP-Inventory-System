@@ -1,0 +1,1595 @@
+[
+  {
+    "id": 1,
+    "serialNumber": 2372,
+    "isNew": 1,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 1",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2025-05-23 09:13:46",
+      "end": "2026-05-23 09:13:46"
+    },
+    "price": [
+      {
+        "value": 493,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 19720,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 2,
+    "serialNumber": 9128,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 2",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2025-05-23 09:13:46",
+      "end": "2026-05-23 09:13:46"
+    },
+    "price": [
+      {
+        "value": 309,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 12360,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 3,
+    "serialNumber": 5399,
+    "isNew": 0,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 3",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2025-05-25 09:13:46",
+      "end": "2026-05-25 09:13:46"
+    },
+    "price": [
+      {
+        "value": 66,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 2640,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 4,
+    "serialNumber": 4990,
+    "isNew": 1,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 4",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2025-05-23 09:13:46",
+      "end": "2026-05-23 09:13:46"
+    },
+    "price": [
+      {
+        "value": 89,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 3560,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 5,
+    "serialNumber": 6709,
+    "isNew": 0,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 5",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2025-05-25 09:13:46",
+      "end": "2026-05-25 09:13:46"
+    },
+    "price": [
+      {
+        "value": 309,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 12360,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 6,
+    "serialNumber": 1016,
+    "isNew": 1,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 6",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2025-05-24 09:13:46",
+      "end": "2026-05-24 09:13:46"
+    },
+    "price": [
+      {
+        "value": 495,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 19800,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 7,
+    "serialNumber": 4433,
+    "isNew": 1,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 7",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2025-05-23 09:13:46",
+      "end": "2026-05-23 09:13:46"
+    },
+    "price": [
+      {
+        "value": 441,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 17640,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 8,
+    "serialNumber": 6751,
+    "isNew": 1,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 8",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2025-05-23 09:13:46",
+      "end": "2026-05-23 09:13:46"
+    },
+    "price": [
+      {
+        "value": 182,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 7280,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 9,
+    "serialNumber": 8500,
+    "isNew": 1,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 9",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2025-05-23 09:13:46",
+      "end": "2026-05-23 09:13:46"
+    },
+    "price": [
+      {
+        "value": 147,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 5880,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 10,
+    "serialNumber": 7613,
+    "isNew": 1,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 10",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2025-05-25 09:13:46",
+      "end": "2026-05-25 09:13:46"
+    },
+    "price": [
+      {
+        "value": 250,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 10000,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 11,
+    "serialNumber": 3546,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 11",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2025-05-24 09:13:46",
+      "end": "2026-05-24 09:13:46"
+    },
+    "price": [
+      {
+        "value": 471,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 18840,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 12,
+    "serialNumber": 7169,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 12",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2025-05-25 09:13:46",
+      "end": "2026-05-25 09:13:46"
+    },
+    "price": [
+      {
+        "value": 302,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 12080,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 13,
+    "serialNumber": 6261,
+    "isNew": 0,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 13",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2025-05-24 09:13:46",
+      "end": "2026-05-24 09:13:46"
+    },
+    "price": [
+      {
+        "value": 54,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 2160,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 14,
+    "serialNumber": 9494,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 14",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2025-05-24 09:13:46",
+      "end": "2026-05-24 09:13:46"
+    },
+    "price": [
+      {
+        "value": 407,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 16280,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 15,
+    "serialNumber": 2008,
+    "isNew": 1,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 15",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2025-05-24 09:13:46",
+      "end": "2026-05-24 09:13:46"
+    },
+    "price": [
+      {
+        "value": 218,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 8720,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 16,
+    "serialNumber": 3447,
+    "isNew": 1,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 16",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2025-05-24 09:13:46",
+      "end": "2026-05-24 09:13:46"
+    },
+    "price": [
+      {
+        "value": 485,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 19400,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 17,
+    "serialNumber": 3575,
+    "isNew": 1,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 17",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2025-05-25 09:13:46",
+      "end": "2026-05-25 09:13:46"
+    },
+    "price": [
+      {
+        "value": 274,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 10960,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 18,
+    "serialNumber": 3130,
+    "isNew": 0,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 18",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2025-05-25 09:13:46",
+      "end": "2026-05-25 09:13:46"
+    },
+    "price": [
+      {
+        "value": 302,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 12080,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 19,
+    "serialNumber": 8493,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 19",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2025-05-23 09:13:46",
+      "end": "2026-05-23 09:13:46"
+    },
+    "price": [
+      {
+        "value": 174,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 6960,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 20,
+    "serialNumber": 6228,
+    "isNew": 0,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 20",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2025-05-24 09:13:46",
+      "end": "2026-05-24 09:13:46"
+    },
+    "price": [
+      {
+        "value": 395,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 15800,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 1,
+    "date": "2025-05-23 09:13:46"
+  },
+  {
+    "id": 21,
+    "serialNumber": 1231,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 21",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-08-29 09:13:46",
+      "end": "2025-08-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 155,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 6200,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 22,
+    "serialNumber": 9810,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 22",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-08-30 09:13:46",
+      "end": "2025-08-30 09:13:46"
+    },
+    "price": [
+      {
+        "value": 131,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 5240,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 23,
+    "serialNumber": 5233,
+    "isNew": 1,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 23",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2024-08-29 09:13:46",
+      "end": "2025-08-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 118,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 4720,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 24,
+    "serialNumber": 7318,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 24",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2024-08-30 09:13:46",
+      "end": "2025-08-30 09:13:46"
+    },
+    "price": [
+      {
+        "value": 30,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 1200,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 25,
+    "serialNumber": 9621,
+    "isNew": 0,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 25",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2024-08-28 09:13:46",
+      "end": "2025-08-28 09:13:46"
+    },
+    "price": [
+      {
+        "value": 493,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 19720,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 26,
+    "serialNumber": 1841,
+    "isNew": 1,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 26",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2024-08-28 09:13:46",
+      "end": "2025-08-28 09:13:46"
+    },
+    "price": [
+      {
+        "value": 246,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 9840,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 27,
+    "serialNumber": 7284,
+    "isNew": 0,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 27",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-08-29 09:13:46",
+      "end": "2025-08-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 139,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 5560,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 28,
+    "serialNumber": 8946,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 28",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-08-29 09:13:46",
+      "end": "2025-08-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 187,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 7480,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 29,
+    "serialNumber": 5650,
+    "isNew": 1,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 29",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-08-29 09:13:46",
+      "end": "2025-08-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 293,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 11720,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 30,
+    "serialNumber": 4573,
+    "isNew": 0,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 30",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-08-29 09:13:46",
+      "end": "2025-08-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 195,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 7800,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 31,
+    "serialNumber": 7492,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 31",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-08-28 09:13:46",
+      "end": "2025-08-28 09:13:46"
+    },
+    "price": [
+      {
+        "value": 329,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 13160,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 32,
+    "serialNumber": 9490,
+    "isNew": 1,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 32",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2024-08-29 09:13:46",
+      "end": "2025-08-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 165,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 6600,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 2,
+    "date": "2024-08-28 09:13:46"
+  },
+  {
+    "id": 33,
+    "serialNumber": 5013,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 33",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-09-06 09:13:46",
+      "end": "2025-09-06 09:13:46"
+    },
+    "price": [
+      {
+        "value": 170,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 6800,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 34,
+    "serialNumber": 4042,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 34",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-09-08 09:13:46",
+      "end": "2025-09-08 09:13:46"
+    },
+    "price": [
+      {
+        "value": 57,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 2280,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 35,
+    "serialNumber": 2279,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 35",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-09-08 09:13:46",
+      "end": "2025-09-08 09:13:46"
+    },
+    "price": [
+      {
+        "value": 406,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 16240,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 36,
+    "serialNumber": 8962,
+    "isNew": 0,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 36",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2024-09-06 09:13:46",
+      "end": "2025-09-06 09:13:46"
+    },
+    "price": [
+      {
+        "value": 84,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 3360,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 37,
+    "serialNumber": 6172,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 37",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-09-07 09:13:46",
+      "end": "2025-09-07 09:13:46"
+    },
+    "price": [
+      {
+        "value": 126,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 5040,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 38,
+    "serialNumber": 4696,
+    "isNew": 1,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 38",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2024-09-07 09:13:46",
+      "end": "2025-09-07 09:13:46"
+    },
+    "price": [
+      {
+        "value": 177,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 7080,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 39,
+    "serialNumber": 5521,
+    "isNew": 1,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 39",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2024-09-06 09:13:46",
+      "end": "2025-09-06 09:13:46"
+    },
+    "price": [
+      {
+        "value": 404,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 16160,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 40,
+    "serialNumber": 1587,
+    "isNew": 1,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 40",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2024-09-06 09:13:46",
+      "end": "2025-09-06 09:13:46"
+    },
+    "price": [
+      {
+        "value": 93,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 3720,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 41,
+    "serialNumber": 5416,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 41",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-09-06 09:13:46",
+      "end": "2025-09-06 09:13:46"
+    },
+    "price": [
+      {
+        "value": 26,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 1040,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 42,
+    "serialNumber": 1462,
+    "isNew": 0,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 42",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-09-06 09:13:46",
+      "end": "2025-09-06 09:13:46"
+    },
+    "price": [
+      {
+        "value": 397,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 15880,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 43,
+    "serialNumber": 5763,
+    "isNew": 1,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 43",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-09-06 09:13:46",
+      "end": "2025-09-06 09:13:46"
+    },
+    "price": [
+      {
+        "value": 450,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 18000,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 44,
+    "serialNumber": 1748,
+    "isNew": 0,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 44",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2024-09-07 09:13:46",
+      "end": "2025-09-07 09:13:46"
+    },
+    "price": [
+      {
+        "value": 78,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 3120,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 45,
+    "serialNumber": 3919,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 45",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2024-09-08 09:13:46",
+      "end": "2025-09-08 09:13:46"
+    },
+    "price": [
+      {
+        "value": 61,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 2440,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 46,
+    "serialNumber": 2170,
+    "isNew": 0,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 46",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2024-09-07 09:13:46",
+      "end": "2025-09-07 09:13:46"
+    },
+    "price": [
+      {
+        "value": 182,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 7280,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 47,
+    "serialNumber": 4539,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 47",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2024-09-08 09:13:46",
+      "end": "2025-09-08 09:13:46"
+    },
+    "price": [
+      {
+        "value": 208,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 8320,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 48,
+    "serialNumber": 7447,
+    "isNew": 1,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 48",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-09-08 09:13:46",
+      "end": "2025-09-08 09:13:46"
+    },
+    "price": [
+      {
+        "value": 151,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 6040,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 3,
+    "date": "2024-09-06 09:13:46"
+  },
+  {
+    "id": 49,
+    "serialNumber": 7864,
+    "isNew": 1,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 49",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2024-11-30 09:13:46",
+      "end": "2025-11-30 09:13:46"
+    },
+    "price": [
+      {
+        "value": 356,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 14240,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 50,
+    "serialNumber": 9583,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 50",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2024-12-01 09:13:46",
+      "end": "2025-12-01 09:13:46"
+    },
+    "price": [
+      {
+        "value": 161,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 6440,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 51,
+    "serialNumber": 3954,
+    "isNew": 0,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 51",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-11-30 09:13:46",
+      "end": "2025-11-30 09:13:46"
+    },
+    "price": [
+      {
+        "value": 153,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 6120,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 52,
+    "serialNumber": 5076,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 52",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-11-30 09:13:46",
+      "end": "2025-11-30 09:13:46"
+    },
+    "price": [
+      {
+        "value": 338,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 13520,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 53,
+    "serialNumber": 9758,
+    "isNew": 1,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 53",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-11-30 09:13:46",
+      "end": "2025-11-30 09:13:46"
+    },
+    "price": [
+      {
+        "value": 303,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 12120,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 54,
+    "serialNumber": 7236,
+    "isNew": 1,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 54",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-11-29 09:13:46",
+      "end": "2025-11-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 47,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 1880,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 55,
+    "serialNumber": 2925,
+    "isNew": 1,
+    "photo": "/img/headphones.jpg",
+    "title": "Навушники 55",
+    "type": "Навушники",
+    "specification": "Характеристики навушники",
+    "guarantee": {
+      "start": "2024-12-01 09:13:46",
+      "end": "2025-12-01 09:13:46"
+    },
+    "price": [
+      {
+        "value": 486,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 19440,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 56,
+    "serialNumber": 5824,
+    "isNew": 0,
+    "photo": "/img/camera.jpg",
+    "title": "Камера 56",
+    "type": "Камера",
+    "specification": "Характеристики камера",
+    "guarantee": {
+      "start": "2024-11-29 09:13:46",
+      "end": "2025-11-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 376,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 15040,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 57,
+    "serialNumber": 3026,
+    "isNew": 0,
+    "photo": "/img/monitor.jpg",
+    "title": "Монітор 57",
+    "type": "Монітор",
+    "specification": "Характеристики монітор",
+    "guarantee": {
+      "start": "2024-11-29 09:13:46",
+      "end": "2025-11-29 09:13:46"
+    },
+    "price": [
+      {
+        "value": 94,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 3760,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 58,
+    "serialNumber": 6875,
+    "isNew": 0,
+    "photo": "/img/keyboard.jpg",
+    "title": "Клавіатура 58",
+    "type": "Клавіатура",
+    "specification": "Характеристики клавіатура",
+    "guarantee": {
+      "start": "2024-12-01 09:13:46",
+      "end": "2025-12-01 09:13:46"
+    },
+    "price": [
+      {
+        "value": 196,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 7840,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  },
+  {
+    "id": 59,
+    "serialNumber": 6108,
+    "isNew": 0,
+    "photo": "/img/mouse.jpg",
+    "title": "Мишка 59",
+    "type": "Мишка",
+    "specification": "Характеристики мишка",
+    "guarantee": {
+      "start": "2024-11-30 09:13:46",
+      "end": "2025-11-30 09:13:46"
+    },
+    "price": [
+      {
+        "value": 306,
+        "symbol": "USD",
+        "isDefault": 0
+      },
+      {
+        "value": 12240,
+        "symbol": "UAH",
+        "isDefault": 1
+      }
+    ],
+    "order": 4,
+    "date": "2024-11-29 09:13:46"
+  }
+]
