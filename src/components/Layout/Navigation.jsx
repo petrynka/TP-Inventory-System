@@ -7,13 +7,13 @@ const Navigation = () => {
       path: "/orders",
       label: "Приходы",
       icon: ShoppingBag,
-      count: 25,
+      count: 4,
     },
     {
       path: "/products",
       label: "Продукты",
       icon: Package,
-      count: null,
+      count: 59,
     },
   ];
 

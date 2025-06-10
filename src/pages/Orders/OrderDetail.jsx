@@ -7,7 +7,7 @@ import { UI_TEXTS } from '../../utils/constants';
 
 const OrderDetail = () => {
     const dispatch = useDispatch();
-    const { selectedOrder, list: orders } = useSelector(state => state.orders);
+    const { selectedOrder } = useSelector(state => state.orders);
     const { list: products } = useSelector(state => state.products);
 
     if (!selectedOrder) return null;
@@ -26,7 +26,7 @@ const OrderDetail = () => {
     };
 
     return (
-        <div className="fixed right-0 top-0 h-full w-96 bg-white shadow-xl border-l border-gray-200 z-40 animate-slideIn">
+        <div className="fixed right-0 top-0 h-full w-1/2 bg-white shadow-xl border-l border-gray-200 z-40 animate-slideIn">
             {/* Header */}
             <div className="flex items-center justify-between p-4 border-b border-gray-200 bg-gray-50">
                 <h2 className="text-lg font-semibold text-gray-900">

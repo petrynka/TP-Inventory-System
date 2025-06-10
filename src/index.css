@@ -41,7 +41,7 @@
   }
   
   .animate-slideIn {
-    animation: slideIn 0.3s ease-out;
+    animation: slideIn 0.2s ease-out;
   }
   
   .animate-pulse-slow {

@@ -2,15 +2,13 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
     list: [],
+    filteredList: [], // Для відфільтрованих продуктів
+    orders: [], // Список приходів (для отримання назв)
+    selectedType: 'all', // Вибраний тип для фільтрації
+    productTypes: [], // Унікальні типи продуктів
     loading: false,
     error: null,
-    filters: {
-        search: '',
-        type: '',
-        isNew: null,
-        order: null
-    }
-};
+}
 
 const productsSlice = createSlice({
     name: 'products',
@@ -18,6 +16,22 @@ const productsSlice = createSlice({
     reducers: {
         setProducts(state, action) {
             state.list = action.payload;
+            state.filteredList = action.payload;
+            // Автоматично створюємо список унікальних типів
+            const types = [...new Set(action.payload.map(product => product.type))];
+            state.productTypes = types;
+        },
+        setOrders(state, action) {
+            state.orders = action.payload;
+        },
+        setSelectedType(state, action) {
+            state.selectedType = action.payload;
+            // Фільтруємо продукти по типу
+            if (action.payload === 'all') {
+                state.filteredList = state.list;
+            } else {
+                state.filteredList = state.list.filter(product => product.type === action.payload);
+            }
         },
         setLoading(state, action) {
             state.loading = action.payload;
@@ -27,40 +41,23 @@ const productsSlice = createSlice({
         },
         clearProducts(state) {
             state.list = [];
+            state.filteredList = [];
+            state.orders = [];
+            state.selectedType = 'all';
+            state.productTypes = [];
             state.loading = false;
             state.error = null;
-        },
-        addProduct(state, action) {
-            state.list.push(action.payload);
-        },
-        deleteProduct(state, action) {
-            state.list = state.list.filter(product => product.id !== action.payload);
-        },
-        updateProduct(state, action) {
-            const index = state.list.findIndex(product => product.id === action.payload.id);
-            if (index !== -1) {
-                state.list[index] = action.payload;
-            }
-        },
-        setFilters(state, action) {
-            state.filters = { ...state.filters, ...action.payload };
-        },
-        clearFilters(state) {
-            state.filters = initialState.filters;
         }
     },
-});
+})
 
 export const {
     setProducts,
+    setOrders,
+    setSelectedType,
     setLoading,
     setError,
     clearProducts,
-    addProduct,
-    deleteProduct,
-    updateProduct,
-    setFilters,
-    clearFilters
 } = productsSlice.actions;
 
 export default productsSlice.reducer;
