@@ -1,11 +1,13 @@
 import { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { setCurrentTime, setActiveSessions } from "../../store/slices/appSlice";
+import { setCurrentTime } from "../../store/slices/appSlice";
 import { Users, Clock } from "lucide-react";
+import useSocket from "../../hooks/useSocket";
 
 const TopMenu = () => {
     const dispatch = useDispatch();
     const { activeSessions, currentTime} = useSelector(state => state.app);
+    useSocket();
 
     // Оновлення часу кожну секунду
     useEffect(() =>{
@@ -30,19 +32,6 @@ const TopMenu = () => {
 
         updateTime();
         const interval = setInterval(updateTime, 1000);
-
-        return () => clearInterval(interval);
-    }, [dispatch]);
-
-    // Симуляція WebSocket для активних сесій (поки що)
-    useEffect(() => {
-        // Тут буде WebSocket логіка
-        // Поки що просто встановимо тестове значення
-        dispatch(setActiveSessions(Math.floor(Math.random() * 10) + 1));
-    
-        const interval = setInterval(() => {
-            dispatch(setActiveSessions(Math.floor(Math.random() * 10) + 1));
-        }, 5000);
 
         return () => clearInterval(interval);
     }, [dispatch]);
