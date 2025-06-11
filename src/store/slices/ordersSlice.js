@@ -29,6 +29,7 @@ const ordersSlice = createSlice({
             state.selectedOrder = null;
             state.loading = false;
             state.error = null;
+            state.showDeleteModal = false;
         },
         addOrder(state, action){
             state.list.push(action.payload)
