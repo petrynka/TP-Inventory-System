@@ -178,6 +178,6 @@ npm cache clean --force
 
 ## 🟢 Демо
 
-[Відкрити додаток на Render](https://inventory-app.onrender.com)
+[Відкрити додаток на Render](https://inventory-app-rt5g.onrender.com)
 
 [Вихідний код на GitHub](https://github.com/petrynka/TP-Inventory-System#)
