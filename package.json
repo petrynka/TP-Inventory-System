@@ -10,14 +10,15 @@
     "preview": "vite preview",
     "test": "vitest",
     "test:run": "vitest run",
-    "test:ui": "vitest --ui"
+    "start": "node server/server.js"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
-    "express": "^5.1.0",
+    "express": "^4.19.2",
     "lucide-react": "^0.513.0",
+    "path-to-regexp": "1.8.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-redux": "^9.2.0",

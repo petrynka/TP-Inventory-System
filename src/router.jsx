@@ -25,11 +25,11 @@ export const router = createBrowserRouter([
       {
         path: 'products',
         element: <Products />
-      }
+      },
     ]
   },
-  {
-    path: '*',
-    element: <NotFound />
-  }
+   {
+        path: '*',
+        element: <NotFound />
+    }
 ]);
